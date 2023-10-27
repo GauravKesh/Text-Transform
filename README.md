@@ -6,7 +6,7 @@
 
   step2:
 
-     ``` npm i ```
+     ```npm i```
 
 # to start dev server
 
